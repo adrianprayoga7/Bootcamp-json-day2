@@ -1,0 +1,11 @@
+tujuan json, bersifat non-sql sehingga mempermudah untuk membuat yang berbasis API
+dengan menggunakan json aplikasi akan ringan
+
+json sifat datanya objek, yang bisa berisi atribut yg ditandai dengan kurung siku, json menyimpan array didalamnya ada objek
+
+
+-pastikan json array -> [ ]
+-readfile
+-parsing
+-push
+-writefile
